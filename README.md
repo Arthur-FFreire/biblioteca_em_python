@@ -1,7 +1,7 @@
 # biblioteca_em_python
 import json
 import os
-# Nome do arquivo JSON onde os livros serão armazenados
+# Arquivo JSON dos livros armazenados
 ARQUIVO = "biblioteca.json"
 # Carregar ou criar
 def carregar_dados():
